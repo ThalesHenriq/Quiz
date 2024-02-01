@@ -3,23 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Quiz - Página Inicial</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            min-height: 100vh;
+            background: linear-gradient(180deg , #df9916, #000000);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 100px auto;
+            text-align: center;
+        }
+        h1 {
+            color: #ffffff;
+        }
+        p {
+            color: #ffffff;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        .start-button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .start-button:hover {
+            background-color: #45a049;
+        }
+    </style>
 </head>
 <body>
-    <div class="quiz-container">
-        <h1>Quiz</h1>
-        <p id="question"></p>
-        <ul id="options">
-            <li><button onclick="checkAnswer(0)"></button></li>
-            <li><button onclick="checkAnswer(1)"></button></li>
-            <li><button onclick="checkAnswer(2)"></button></li>
-            <li><button onclick="checkAnswer(3)"></button></li>
-        </ul>
-        <p id="score">Score: 0</p>
-        <button onclick="nextQuestion()">Next</button>
-    </div>
 
-    <script src="script.js"></script>
+<div class="container">
+    <h1>Bem-vindo ao Quiz!</h1>
+    <p>Teste seus conhecimentos respondendo a perguntas interessantes.</p>
+    <button class="start-button" onclick="startQuiz()">Começar o Quiz</button>
+</div>
+
+<script>
+    function startQuiz() {
+        // Redirecionar para a primeira pergunta
+        window.open("quiz.html", "_blank");;
+    }
+</script>
+
 </body>
 </html>
