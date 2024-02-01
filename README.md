@@ -3,7 +3,7 @@
 Quiz é o nome de um jogo de questionários que tem como objetivo fazer uma avaliação dos conhecimentos sobre determinado assunto feito com javascript;
 Um script JavaScript é incluído para manipular o evento de clique do botão "Começar o Quiz". Quando o botão é clicado, o script redireciona os usuários para a primeira pergunta do quiz, permitindo que o quiz comece de forma suave e intuitiva.
 
-quiz-4x4ljwizj-thaleshenriq.vercel.app
+quiz-one-livid.vercel.app
 
 # screenshot
 
