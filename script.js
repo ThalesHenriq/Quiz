@@ -1,12 +1,37 @@
 const questions = [
     {
-        question: "Qual é a capital do Brasil?",
-        options: ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
-        correctAnswer: 2
+        question: "Em Legalmente Loira, qual é o nome do chihuahua de Elle?",
+        options: ["Pugilista", "cookie", "surtida", "Sally"],
+        correctAnswer: 0
     },
     {
-        question: "Qual é o maior planeta do Sistema Solar?",
-        options: ["Júpiter", "Saturno", "Terra", "Vênus"],
+        question: "Julia Roberts interpreta uma prostituta chamada o que na comédia romântica clássica de 1990 “Uma Linda Mulher”?",
+        options: ["violeta", "Victoria", "jenny", "julia"],
+        correctAnswer: 0
+    },
+    {
+        question: "Quem cantou “My Heart Will Go On” no Titanic?",
+        options: ["Mariah Carey", "Celine Dion", "Whitney Houston?", "Sally"],
+        correctAnswer: 0
+    },
+    {
+        question: "Em Legalmente Loira, qual é o nome do chihuahua de Elle?",
+        options: ["Pugilista", "cookie", "surtida", "Sally"],
+        correctAnswer: 0
+    },
+    {
+        question: "Em Legalmente Loira, qual é o nome do chihuahua de Elle?",
+        options: ["Pugilista", "cookie", "surtida", "Sally"],
+        correctAnswer: 0
+    },
+    {
+        question: "Em Legalmente Loira, qual é o nome do chihuahua de Elle?",
+        options: ["Pugilista", "cookie", "surtida", "Sally"],
+        correctAnswer: 0
+    },
+    {
+        question: "Em Legalmente Loira, qual é o nome do chihuahua de Elle?",
+        options: ["Pugilista", "cookie", "surtida", "Sally"],
         correctAnswer: 0
     },
     // Adicione mais perguntas aqui...
