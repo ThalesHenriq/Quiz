@@ -12,7 +12,7 @@ const questions = [
     {
         question: "3 - Quem cantou “My Heart Will Go On” no Titanic?",
         options: ["Mariah Carey", "Celine Dion", "Whitney Houston?", "Sally"],
-        correctAnswer: 0
+        correctAnswer: 1
     },
      {
         question: "4 - Qual foi o primeiro filme de terror em cores?",
@@ -49,11 +49,7 @@ const questions = [
         options: ["2016", "2015", "2012", "2014"],
         correctAnswer: 1
     },
-    {
-        question: "11 - Julia Roberts interpreta uma prostituta chamada o que na comédia romântica clássica de 1990 “Uma Linda Mulher”?",
-        options: ["Violeta", "Victoria", "Jenny", "julia"],
-        correctAnswer: 1
-    },
+
     // Adicione mais perguntas aqui...
 ];
 
