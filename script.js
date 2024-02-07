@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "1 - Quem é considerado o "pai da inteligência artificial"?",
+        question: "1 - Quem é considerado o pai da inteligência artificial?",
         options: ["Alan Turing", " Elon Musk", "Steve Jobs", "Bill Gates"],
         correctAnswer: 0
     },
