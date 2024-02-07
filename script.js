@@ -1,52 +1,52 @@
 const questions = [
     {
-        question: "1 - Em Legalmente Loira, qual é o nome do chihuahua de Elle?",
-        options: ["Pugilista", "cookie", "surtida", "Sally"],
+        question: "1 - Quem é considerado o "pai da inteligência artificial"?",
+        options: ["Alan Turing", " Elon Musk", "Steve Jobs", "Bill Gates"],
         correctAnswer: 0
     },
     {
-        question: "2 - Julia Roberts interpreta uma prostituta chamada o que na comédia romântica clássica de 1990 “Uma Linda Mulher”?",
-        options: ["violeta", "Victoria", "jenny", "julia"],
-        correctAnswer: 0
+        question: "2 - Qual destas não é uma técnica de inteligência artificial?",
+        options: ["Reconhecimento facial", " Jogos de tabuleiro", "Chatbots", "Carros autônomos"],
+        correctAnswer: 3
     },
     {
-        question: "3 - Quem cantou “My Heart Will Go On” no Titanic?",
-        options: ["Mariah Carey", "Celine Dion", "Whitney Houston?", "Sally"],
+        question: "3 - O que significa IA?",
+        options: ["Inteligência Articulada", "Inteligência Artificial", "Interpretação Avançada", " Invenção Automática"],
         correctAnswer: 1
     },
      {
-        question: "4 - Qual foi o primeiro filme de terror em cores?",
-        options: ["A maldição de frankenstein", "Casa do demônio ", "O Mistério do Museu de Cera ", "batman"],
-        correctAnswer: 0
-    },
-    {
-        question: "5 - Qual filme de terror foi a estreia de Johnny Depp? ",
-        options: ["Dark Shadows", "From Hell", "A Nightmare on Elm Street", "Eduard maos de tesoura"],
-        correctAnswer: 2
-    },
-    {
-        question: "6 - Que cor está presente em quase todas as cenas de O Iluminado?",
-        options: ["vermelho", "preto", "verde", "amarelo"],
-        correctAnswer: 0
-    },
-    {
-        question: "7 - Qual é a famosa citação de O Sexto Sentido?",
-        options: ["Eu vejo pessoas mortas", "Andar por aí como pessoas normais. Eles não se vêem", "Eles só veem o que querem ver", "Eles não sabem que estão mortos."],
-        correctAnswer: 0
-    },
-    {
-        question: "8 - Que filme de terror apresentou o primeiro banheiro funcionando na tela?",
-        options: ["Psicose (1960)", "Carniçais II (1988) ", "Le Manoir du Diable", "Saw"],
-        correctAnswer: 0
-    },
-    {
-        question: "9 - Este filme de terror é baseado em um agente do FBI (Jodie Foster) tentando usar um serial killer canibal (Anthony Hopkins) com doutorado para ajudar a pegar outro serial killer.",
-        options: ["Hannibal", "O Silêncio dos Inocentes", "Red Dragon", "Hanibal"],
+        question: "4 - O que os chatbots fazem?",
+        options: ["Controlam o tráfego", "Fazem reservas em restaurantes ", "Tiram fotos ", "Cozinham comida"],
         correctAnswer: 1
     },
     {
-        question: "10 - Para que ano Marty e Doc viajam em “De Volta para o Futuro Parte II”?",
-        options: ["2016", "2015", "2012", "2014"],
+        question: "5 - Qual destes não é um exemplo de IA em jogos de videogame?",
+        options: ["NPCs (Personagens Não-jogáveis)", "Inteligência de computador em xadrez", "Gráficos em alta resolução", "Inteligência para ajustar a dificuldade conforme o jogador"],
+        correctAnswer: 2
+    },
+    {
+        question: "6 - Como os assistentes de voz, como a Siri ou a Alexa, funcionam?",
+        options: [" Reconhecendo padrões de linguagem humana", "Lendo pensamentos", " Escaneando rostos", "Criando músicas"],
+        correctAnswer: 0
+    },
+    {
+        question: "7 - O que é aprendizado de máquina?",
+        options: ["Um computador que aprende a ler", "Um robô que ensina programação", "Um programa que aprende com exemplos", "Uma máquina de lavar que aprende a cozinhar"],
+        correctAnswer: 2
+    },
+    {
+        question: "8 - Qual é o principal objetivo da IA em carros autônomos?",
+        options: ["Aumentar o consumo de combustível", "Reduzir o tráfego nas estradas", "Melhorar a segurança e evitar acidentes", " Aprender a tocar música"],
+        correctAnswer: 2
+    },
+    {
+        question: "9 - O que é reconhecimento facial?",
+        options: ["Um método para reconhecer diferentes tipos de comida", "Uma técnica para identificar pessoas por suas características faciais", "Um jogo de tabuleiro", "Uma maneira de reconhecer músicas pelo som"],
+        correctAnswer: 1
+    },
+    {
+        question: "10 - ual é a principal preocupação ética sobre a IA?",
+        options: ["Aumentar a diversão", " Privacidade e segurança dos dados", "Reduzir o tempo de sono", "Aumentar o consumo de energia"],
         correctAnswer: 1
     },
 
