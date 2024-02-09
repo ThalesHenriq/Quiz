@@ -45,7 +45,7 @@ const questions = [
         correctAnswer: 1
     },
     {
-        question: "10 - ual é a principal preocupação ética sobre a IA?",
+        question: "10 - Qual é a principal preocupação ética sobre a IA?",
         options: ["Aumentar a diversão", " Privacidade e segurança dos dados", "Reduzir o tempo de sono", "Aumentar o consumo de energia"],
         correctAnswer: 1
     },
